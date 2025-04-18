@@ -1,2 +1,2 @@
-# Women-in-STEM-Representation-Analysis
-This project analyzes female representation in STEM fields across regions and industries. By examining historical and current data, it identifies trends, disparities, and influencing factors. The goal is to highlight progress and propose strategies for improving inclusion.
+# Migraine-Treatments-Analysis
+A data visualization project developed in Power BI to analyze and compare the effectiveness of different migraine treatments. The dashboard presents insights through interactive charts, helping identify trends and support data-driven decisions in healthcare.
